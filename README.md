@@ -1,6 +1,6 @@
 # Hi there 👋😉 I'm Pratham Sharma 
 
-<img height='500' align='right' src='https://i.pinimg.com/564x/49/e1/36/49e136dfb19600347efe0682e8f96bf1.jpg'>
+<img height='500' align='right' src='https://github.com/prrrathm/prrrathm/blob/main/image.png'>
 
 I'm a 2nd year Bachelor of Computer Science from Acharya Narednra Dev College, Delhi Univerity.
 
