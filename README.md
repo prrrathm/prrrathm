@@ -24,7 +24,7 @@ I'm a 2nd year Bachelor of Computer Science from Acharya Narednra Dev College, D
 <p align="center">
 <a href="https://twitter.com/prrrathm" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/pratham-sharma-278aab212/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/wth_ishiii" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+<a href="https://instagram.com/prrrathm" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
 </p>
 
 <!--
