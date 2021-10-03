@@ -18,8 +18,6 @@ I'm a 2nd year Bachelor of Computer Science from Acharya Narednra Dev College, D
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=prrrathm)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align='center' background-color='black' src='https://github.com/prrrathm/prrrathm/blob/output/github-contribution-grid-snake.gif'>
-
 <hr>
 
 <h3 align="center">Connect with me:</h3>
