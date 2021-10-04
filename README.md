@@ -2,7 +2,7 @@
 
 <img height='500' align='right' src='https://github.com/prrrathm/prrrathm/blob/main/image.png'>
 
-I'm a 2nd year Bachelor of Computer Science from Acharya Narednra Dev College, Delhi University.
+I'm a 2nd year Bachelor of Computer Science from Acharya Narendra Dev College, Delhi University.
 
 ## About me?
 
