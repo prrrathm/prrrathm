@@ -6,8 +6,8 @@ I'm a 2nd year Bachelor of Computer Science from Acharya Narendra Dev College, D
 
 ## About me?
 
-- I've been doing programming since 2016, I've won multiple awards in web-designing on interschool level
-- I'm currently learning React.js, Python and AWS
+- I've been doing programming since 2016, I've won multiple web-designing hackathons at school level
+- I'm currently learning React.js, Python and Backend Development.
 - In future I'm planning to go for .NET framework, ML/AI and Android
 - Uptil now I've learned Java, C++, Javascript, CSS, HTML and JQuery
 - I'm open for internships and mentorship of all kind related to my niche
