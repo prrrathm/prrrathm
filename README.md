@@ -1,6 +1,6 @@
-# Hi there 👋😉 I'm Pratham Sharma 
+# Hi there I'm Pratham Sharma 
 
-<img height='500' align='right' src='https://github.com/prrrathm/prrrathm/blob/main/image.png'>
+<!-- <img height='500' align='right' src='https://github.com/prrrathm/prrrathm/blob/main/image.png'> -->
 
 I'm a 2nd year Bachelor of Computer Science from Acharya Narendra Dev College, Delhi University.
 
@@ -8,9 +8,8 @@ I'm a 2nd year Bachelor of Computer Science from Acharya Narendra Dev College, D
 
 - I've been doing programming since 2016, I've won multiple web-designing hackathons at school level
 - I'm currently learning React.js, Python and Backend Development.
-- In future I'm planning to go for .NET framework, ML/AI and Android
-- Uptil now I've learned Java, C++, Javascript, CSS, HTML and JQuery
-- I'm open for internships and mentorship of all kind related to my niche
+- In future I'm planning to go for pandas, ML/AI, Backend and Android Development.
+- Uptil now I've learned Java, C++, Javascript, React.js, CSS, HTML and JQuery.
 
 <hr>
 
