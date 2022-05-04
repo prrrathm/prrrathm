@@ -1,4 +1,4 @@
-# Hi there I'm Pratham Sharma 
+# Hey there, I'm Pratham Sharma 
 
 <!-- <img height='500' align='right' src='https://github.com/prrrathm/prrrathm/blob/main/image.png'> -->
 
