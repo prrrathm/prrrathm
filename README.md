@@ -18,7 +18,7 @@ I'm a Computer Science Graduate from the University of Delhi.
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=prrrathm)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
-
+<!--
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/prrrathm" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
