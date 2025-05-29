@@ -2,7 +2,7 @@ import requests
 import os
 
 GH_TOKEN = os.getenv("GH_TOKEN")
-USERNAME = "yourusername"
+USERNAME = "prrrathm"
 
 query = """
 query ($login: String!) {
